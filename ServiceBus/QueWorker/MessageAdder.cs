@@ -11,7 +11,7 @@ namespace QueWorker
 {
     /// <summary>
     /// This class adds messages to the Service Bus.
-    /// </summary>
+    /// </summary> 
     public class MessageSender
     {
         private string _connectionString;
