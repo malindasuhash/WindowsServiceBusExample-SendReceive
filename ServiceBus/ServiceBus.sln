@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueWorker", "QueWorker\QueWorker.csproj", "{A21D82A2-75DE-4D7B-9516-8D4AB50F0DCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceConstants", "ServiceConstants\ServiceConstants.csproj", "{F17920EE-7981-490A-A110-33FF5917F4EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueReceiver", "QueReceiver\QueReceiver.csproj", "{22079CD1-6587-4A91-8A5C-EB3414AB6F6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A21D82A2-75DE-4D7B-9516-8D4AB50F0DCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A21D82A2-75DE-4D7B-9516-8D4AB50F0DCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A21D82A2-75DE-4D7B-9516-8D4AB50F0DCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A21D82A2-75DE-4D7B-9516-8D4AB50F0DCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F17920EE-7981-490A-A110-33FF5917F4EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F17920EE-7981-490A-A110-33FF5917F4EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F17920EE-7981-490A-A110-33FF5917F4EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F17920EE-7981-490A-A110-33FF5917F4EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22079CD1-6587-4A91-8A5C-EB3414AB6F6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22079CD1-6587-4A91-8A5C-EB3414AB6F6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22079CD1-6587-4A91-8A5C-EB3414AB6F6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22079CD1-6587-4A91-8A5C-EB3414AB6F6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
